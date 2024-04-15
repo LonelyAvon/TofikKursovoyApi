@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{6AC9BB51-085F-4463-9495-180F60964541}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TofikKursovoyApi/Program.cs">
+    <Files>
+      <File FileName="TofikKursovoyApi/Program.cs" Line="119" Column="17" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.314/Microsoft.Common.CurrentVersion.targets" />
+      <File FileName="TofikKursovoyApi/appsettings.json" />
+      <File FileName="TofikKursovoyApi/appsettings.Development.json" />
+      <File FileName="TofikKursovoyApi/TofikKursovoyApi.csproj" />
+      <File FileName="TofikKursovoyApi/Properties/launchSettings.json" />
+      <File FileName="TofikKursovoyApiModels/Models/Client.cs" />
+      <File FileName="TofikKursovoyApiModels/Context/KursovoyDbContext.cs" />
+      <File FileName="TofikKursovoyApiModels/Models/Product.cs" />
+      <File FileName="TofikKursovoyApiModels/Models/CombineToCart.cs" />
+      <File FileName="TofikKursovoyApiModels/Models/Brand.cs" />
+      <File FileName="TofikKursovoyApiModels/Models/Typeoftechnic.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TofikKursovoyApi" expanded="True">
+            <Node name="TofikKursovoyApi" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="TofikKursovoyApiModels" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Context" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TofikKursovoyApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

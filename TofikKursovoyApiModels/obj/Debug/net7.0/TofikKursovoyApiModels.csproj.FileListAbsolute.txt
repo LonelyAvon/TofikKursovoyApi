@@ -1,0 +1,14 @@
+/Users/user/Projects/TofikKursovoyApi/TofikKursovoyApiModels/bin/Debug/net7.0/TofikKursovoyApiModels.deps.json
+/Users/user/Projects/TofikKursovoyApi/TofikKursovoyApiModels/bin/Debug/net7.0/TofikKursovoyApiModels.runtimeconfig.json
+/Users/user/Projects/TofikKursovoyApi/TofikKursovoyApiModels/bin/Debug/net7.0/TofikKursovoyApiModels.dll
+/Users/user/Projects/TofikKursovoyApi/TofikKursovoyApiModels/bin/Debug/net7.0/TofikKursovoyApiModels.pdb
+/Users/user/Projects/TofikKursovoyApi/TofikKursovoyApiModels/obj/Debug/net7.0/TofikKursovoyApiModels.csproj.AssemblyReference.cache
+/Users/user/Projects/TofikKursovoyApi/TofikKursovoyApiModels/obj/Debug/net7.0/TofikKursovoyApiModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/TofikKursovoyApi/TofikKursovoyApiModels/obj/Debug/net7.0/TofikKursovoyApiModels.AssemblyInfoInputs.cache
+/Users/user/Projects/TofikKursovoyApi/TofikKursovoyApiModels/obj/Debug/net7.0/TofikKursovoyApiModels.AssemblyInfo.cs
+/Users/user/Projects/TofikKursovoyApi/TofikKursovoyApiModels/obj/Debug/net7.0/TofikKursovoyApiModels.csproj.CoreCompileInputs.cache
+/Users/user/Projects/TofikKursovoyApi/TofikKursovoyApiModels/obj/Debug/net7.0/TofikKursovoyApiModels.dll
+/Users/user/Projects/TofikKursovoyApi/TofikKursovoyApiModels/obj/Debug/net7.0/refint/TofikKursovoyApiModels.dll
+/Users/user/Projects/TofikKursovoyApi/TofikKursovoyApiModels/obj/Debug/net7.0/TofikKursovoyApiModels.pdb
+/Users/user/Projects/TofikKursovoyApi/TofikKursovoyApiModels/obj/Debug/net7.0/TofikKursovoyApiModels.genruntimeconfig.cache
+/Users/user/Projects/TofikKursovoyApi/TofikKursovoyApiModels/obj/Debug/net7.0/ref/TofikKursovoyApiModels.dll
